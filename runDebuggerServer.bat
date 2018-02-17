@@ -1,0 +1,1 @@
+"D:/Program Files/GNU MCU Eclipse/OpenOCD/bin/openocd.exe" -f board/maplemini.cfg
