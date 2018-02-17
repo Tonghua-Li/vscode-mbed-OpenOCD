@@ -1,6 +1,9 @@
+#include "mbed_config.h"
 #include "mbed.h"
+//using namespace mbed;
 
 DigitalOut myled(PB_1);
+Serial serial(PA_2, PA_3, 115200);
 
 int main() {
     while(1) {
